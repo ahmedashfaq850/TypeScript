@@ -18,3 +18,14 @@ console.log(myname)
 
 // assign number in myname
 //myname = 44 //Type 'number' is not assignable to type 'string'
+
+// Any Type
+let tem;
+
+// OR
+
+let temp2:any = 'this is string'
+
+// because of any we also assign integer or boolean in temp2
+temp2 = 45;
+
