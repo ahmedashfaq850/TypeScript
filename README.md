@@ -13,3 +13,15 @@
 - Type Aliases
 - ReadOnly
 - ? optional
+- Union
+- Tuples
+- Enums
+- Interface
+- Classes
+  - Private/ Public in typescript
+  - Getters & Setters in typescript
+  - Protected in typescript
+  - Abstract Class in typescript
+- Generics in Typescript
+  - Generics in Arrays and arrow function
+  - Generics classes in typescript
